@@ -176,6 +176,7 @@ plt.title('Training Progress')
 
 - [Andrej Karpathy's makemore series](https://github.com/karpathy/makemore)
 - [Bengio et al. - A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [Kaggle Notebook - NameMLP Implementation](https://www.kaggle.com/code/parthmishra70/namemlp)
 
 ## 🤝 Contributing
 
